@@ -1,0 +1,9 @@
+name: StarTool
+version: '1.0-SNAPSHOT'
+main: me.wally.startool.StarTool
+api-version: 1.18
+authors: [ Wally ]
+description: sick star tool thing
+
+commands:
+  StarTool:

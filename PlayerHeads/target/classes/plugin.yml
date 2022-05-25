@@ -1,0 +1,10 @@
+name: PlayerHead
+version: '1.0-SNAPSHOT'
+main: me.wally.playerhead.PlayerHead
+api-version: 1.18
+prefix: PlayerHeads
+authors: [ Wally ]
+description: Get anybodys player head
+
+commands:
+  Skull:

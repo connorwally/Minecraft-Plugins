@@ -1,0 +1,21 @@
+reload:
+  message:
+    - "&a&lRandomBlock successfully reloaded"
+
+blocks:
+  DIRT:
+    - DIRT
+    - DIRT
+    - DIRT
+    - DIRT
+    - DIAMONDS
+    - ENDER_PEARL
+    - IRON_INGOT
+    - STONE
+    - COARSE_DIRT
+    - IRON_BLOCK
+  SAND:
+    - DIRT
+    - SAND
+    - SAND
+    - SAND

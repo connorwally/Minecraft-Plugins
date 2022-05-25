@@ -1,0 +1,9 @@
+name: StarTool
+version: '${project.version}'
+main: me.wally.startool.StarTool
+api-version: 1.18
+authors: [ Wally ]
+description: sick star tool thing
+
+commands:
+  StarTool:

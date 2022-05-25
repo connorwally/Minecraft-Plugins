@@ -1,0 +1,10 @@
+name: RandomBlock
+version: '${project.version}'
+main: me.wally.randomblock.RandomBlock
+api-version: 1.18
+prefix: RandomBlock
+authors: [ Wally ]
+description: Random block spawner thing
+
+comands:
+  RandomBlock:
