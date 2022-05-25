@@ -1,0 +1,10 @@
+name: ChangeTeam
+version: '${project.version}'
+main: me.wally.changeteam.ChangeTeam
+api-version: 1.18
+prefix: ChangeTeam
+authors: [ Wally ]
+description: change teams sheesh
+
+commands:
+  ChangeTeam:

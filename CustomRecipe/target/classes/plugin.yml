@@ -1,0 +1,7 @@
+name: CustomRecipe
+version: '1.0-SNAPSHOT'
+main: me.wally.customrecipe.CustomRecipe
+api-version: 1.18
+prefix: CustomRecipe
+authors: [ Wally ]
+description: Create custom recipes for your minecraft server

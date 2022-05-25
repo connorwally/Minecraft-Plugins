@@ -1,0 +1,10 @@
+name: CustomEnchants
+version: '${project.version}'
+main: me.wally.customenchants.CustomEnchants
+api-version: 1.18
+prefix: CustomEnchants
+authors: [ Wally ]
+description: Using the enchantment wrapper
+
+commands:
+  Telepathy:

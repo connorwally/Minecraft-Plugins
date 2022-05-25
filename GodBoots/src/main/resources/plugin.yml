@@ -1,0 +1,9 @@
+name: Godboots
+version: '${project.version}'
+main: me.wally.godboots.Main
+api-version: 1.18
+authors: [ Wally ]
+description: Goated boots sheesh
+
+commands:
+  GodBoots:

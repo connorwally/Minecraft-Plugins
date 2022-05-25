@@ -1,0 +1,10 @@
+name: PrivateVault
+version: '1.0-SNAPSHOT'
+main: me.wally.privatevault.PrivateVault
+api-version: 1.18
+prefix: PrivateVault
+authors: [ Wally ]
+description: A private vault plugin (to establish saving hashmaps to data file)
+
+commands:
+  pv:

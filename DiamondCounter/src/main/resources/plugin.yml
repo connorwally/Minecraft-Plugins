@@ -1,0 +1,7 @@
+name: DiamondCounter2
+version: '${project.version}'
+main: me.wally.diamondcounter2.DiamondCounter2
+api-version: 1.18
+prefix: DiamondCounter2
+authors: [ Wally ]
+description: Log diamonds mined to a data file

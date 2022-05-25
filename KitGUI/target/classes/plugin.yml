@@ -1,0 +1,10 @@
+name: KitGUI
+version: '1.0-SNAPSHOT'
+main: me.wally.kitgui.KitGUI
+api-version: 1.18
+prefix: KitGUI
+authors: [ Wally ]
+description: A kit GUI plugin to enhance basics
+
+commands:
+  Kits:
