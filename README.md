@@ -10,8 +10,10 @@ An assortment of minecraft plugins for learning the Java Plugin API's.
 - Events: Items mined with the Telepathy enchant automatically enter the players inventory.
 
 ### CustomRecipe
-- CustomRecipe API: Allows crafting of a Nether Star with 4x Ghast Tear's surrounding 1x Emerald block ( - G - , G E G , - G - )
-- CustomRecipe API: Allows crafting of an "Emerald Pickaxe" with Fortune 5, with 3x Emerald Block, 2x Sticks ( E E E , - S -, - S - )
+- CustomRecipe API: Allows crafting of a Nether Star with 4x Ghast Tear's surrounding 1x Emerald block
+    - ( - G - , G E G , - G - )
+- CustomRecipe API: Allows crafting of an "Emerald Pickaxe" with Fortune 5, with 3x Emerald Block, 2x Sticks
+    - ( E E E , - S -, - S - )
 
 ### DiamondCounter
 - Events: Tracks the number of diamonds mined by a player.
